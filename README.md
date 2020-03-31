@@ -2,7 +2,7 @@ This is a test
 
 ![Image](images/unnamed.jpg)
 
-
+[Latest Release] (https://github.com/teknic-dev/Doc-Test/releases/latest)
 
 
 
